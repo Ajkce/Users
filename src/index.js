@@ -9,8 +9,8 @@ import { Auth0Provider } from '@auth0/auth0-react';
 ReactDOM.render(
   <React.StrictMode>
     <Auth0Provider
-      domain='dev-pu8wyk-g.us.auth0.com'
-      clientId='GYsVn60CkUU6fa4yiwpRrT1KVL5KuzPh'
+      domain='dev-26rdkt3b.us.auth0.com'
+      clientId='5qLZLXuTubUT1rZRvPujXFqLo9F0Yv9x'
       redirectUri={window.location.origin}
       cacheLocation='localstorage'
     >
